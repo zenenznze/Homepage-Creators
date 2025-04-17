@@ -1,11 +1,11 @@
 # The URL the site will be built for
 base_url = "https://jiaxiang.wang"
 
-title = "个人主页"
+title = "gearlessjoe的个人主页"
 
-author = "王嘉祥"
+author = "joe"
 
-description = "好奇、探索、创造。个人主页导航网站。"
+description = "joe的个人主页"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = false
